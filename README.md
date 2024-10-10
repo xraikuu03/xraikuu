@@ -1,2 +1,2 @@
 # xraikuu
-My personal repository
+# About me
